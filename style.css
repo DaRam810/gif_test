@@ -1,3 +1,11 @@
 .color {
     background-color: #093415;
 }
+
+.bbi-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 15%;
+	padding-bottom: 15%;
+}
